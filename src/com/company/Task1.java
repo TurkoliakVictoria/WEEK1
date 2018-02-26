@@ -10,7 +10,7 @@ public class Task1{
             {
                  if(time<9 || time>18)
                         System.out.println("I rest");
-                else if(time> 9 && time< 18)
+                 else if(time> 9 && time< 18)
                         System.out.println("I am at work");
             }
             else 
